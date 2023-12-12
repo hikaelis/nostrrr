@@ -1,0 +1,26 @@
+{
+  "name": "nostrrr",
+  "version": "1.0.0",
+  "description": "nostr関連のコード置き場",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hikaelis/nostrrr.git"
+  },
+  "author": "hikari.huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hikaelis/nostrrr/issues"
+  },
+  "homepage": "https://github.com/hikaelis/nostrrr#readme",
+  "dependencies": {
+    "nostr-tools": "^1.17.0",
+    "websocket-polyfill": "^0.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.1.1"
+  }
+}
