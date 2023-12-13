@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/hikaelis/nostrrr#readme",
   "dependencies": {
+    "lodash": "^4.17.21",
+    "nostr-fetch": "^0.13.1",
     "nostr-tools": "^1.17.0",
     "websocket-polyfill": "^0.0.3"
   },
